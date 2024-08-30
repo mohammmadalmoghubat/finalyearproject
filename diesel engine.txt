@@ -1,0 +1,4 @@
++The CO2 emission factor for diesel is approximately 2.68 kg CO2 per liter of diesel fuel.
+
+
++The density of diesel is approximately 0.832 kg/liter.
